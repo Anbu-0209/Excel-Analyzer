@@ -1,0 +1,37 @@
+[
+  {
+    "Employee ID": 1001,
+    "Name": "Alice Johnson",
+    "Role": "Software Engineer",
+    "Salary": 85000,
+    "Performance Score": 4.5
+  },
+  {
+    "Employee ID": 1002,
+    "Name": "Bob Smith",
+    "Role": "Product Manager",
+    "Salary": 95000,
+    "Performance Score": 4.2
+  },
+  {
+    "Employee ID": 1003,
+    "Name": "Charlie Davis",
+    "Role": "Data Analyst",
+    "Salary": 72000,
+    "Performance Score": 3.8
+  },
+  {
+    "Employee ID": 1004,
+    "Name": "Diana Prince",
+    "Role": "HR Specialist",
+    "Salary": 65000,
+    "Performance Score": 4
+  },
+  {
+    "Employee ID": 1005,
+    "Name": "Ethan Clark",
+    "Role": "DevOps Engineer",
+    "Salary": 88000,
+    "Performance Score": 4.7
+  }
+]
